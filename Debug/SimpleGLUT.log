@@ -1,0 +1,11 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  SimpleGLUT.cpp
+C:\Users\pushp\Downloads\SimpleGLUT_0\SimpleGLUT\SimpleGLUT.cpp(192,25): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\pushp\Downloads\SimpleGLUT_0\SimpleGLUT\SimpleGLUT.cpp(192,38): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\pushp\Downloads\SimpleGLUT_0\SimpleGLUT\SimpleGLUT.cpp(193,7): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\pushp\Downloads\SimpleGLUT_0\SimpleGLUT\SimpleGLUT.cpp(193,24): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\pushp\Downloads\SimpleGLUT_0\SimpleGLUT\SimpleGLUT.cpp(225,25): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\pushp\Downloads\SimpleGLUT_0\SimpleGLUT\SimpleGLUT.cpp(225,39): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\pushp\Downloads\SimpleGLUT_0\SimpleGLUT\SimpleGLUT.cpp(226,7): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\pushp\Downloads\SimpleGLUT_0\SimpleGLUT\SimpleGLUT.cpp(226,25): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+  SimpleGLUT.vcxproj -> C:\Users\pushp\Downloads\SimpleGLUT_0\SimpleGLUT\Debug\SimpleGLUT.exe
